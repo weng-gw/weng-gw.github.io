@@ -120,5 +120,5 @@ We know under normality assumption and the null hypothesis
 $$A\hat{\beta}-b\sim N(0,\sigma^2A(X^TX)^{-1}A^T)$$
 
 Thus $$RSS_0-RSS_f$$ is $$\sigma^2\chi^2_d$$, while $$RSS_f$$ is
-$$\sigma^2\chi^2_{(n-p)}$$. Then by the independence between $\hat{\beta}$ and
+$$\sigma^2\chi^2_{(n-p)}$$. Then by the independence between $$\hat{\beta}$$ and
 $$RSS_f$$, we have $$F\sim F_{d,n-p}$$ under the null.
