@@ -106,7 +106,7 @@ $$,
 Basically, it measures the difference of goodness of fit between the full model
 and the null model and the intuition is to reject the null when $$F$$ is large. 
 
-By plugging in the expressions for $\hat{\beta}$ and $\tilde{\beta}$, we have
+By plugging in the expressions for $$\hat{\beta}$$ and $$\tilde{\beta}$$, we have
 
 $$RSS_0-RSS_f=(A\hat{\beta}-b)^T(A(X^TX)^{-1}A^T)^{-1}(A\hat{\beta}-b)^T$$
 
